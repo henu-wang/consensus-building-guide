@@ -1,2 +1,17 @@
-# consensus-building-guide
-Decision-making framework - https://keeprule.com
+# Consensus Building Guide
+
+Methods for building genuine consensus in group decisions. Part of [KeepRule](https://keeprule.com) ecosystem.
+
+## Features
+- Framework documentation
+- Real-world examples
+- Practical exercises
+
+## Resources
+- [Principles](https://keeprule.com/en/principles)
+- [Explore](https://keeprule.com/en/scenarios)
+- [Learn More](https://keeprule.com/en/blog)
+- [Blog](https://keeprule.com/en/blog)
+
+## License
+MIT
